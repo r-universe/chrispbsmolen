@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "cafast"]
+	path = cafast
+	url = https://github.com/cran/cafast
 [submodule "caverify"]
 	path = caverify
 	url = https://github.com/cran/caverify
